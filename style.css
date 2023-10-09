@@ -8,3 +8,20 @@ body {
   font-family: sans-serif;
   padding: 20px;
 }
+
+.part {
+  font-size: 40px;
+  text-decoration: underline;
+  color: #040c28;
+}
+
+.btn {
+  padding: 20px;
+  font-size: 25px;
+  font-weight: bold;
+  margin-top: 10px;
+  background-color: rgb(55, 155, 223);
+  color: rgb(106, 71, 139);
+  border-radius: 5px;
+  cursor: pointer;
+}
