@@ -9,13 +9,24 @@ body {
   padding: 20px;
 }
 
-.title {
-  font-size: 46px;
-  text-transform: uppercase;
+.part {
+  font-size: 40px;
+  text-decoration: underline;
+  color: #040c28;
 }
 
 .btn {
-  background-color: tomato;
-  border: none;
-  padding: 10px;
+  padding: 20px;
+  font-size: 25px;
+  font-weight: bold;
+  margin-top: 10px;
+  background-color: rgb(55, 155, 223);
+  color: rgb(106, 71, 139);
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.title {
+  font-size: 46px;
+  text-transform: uppercase;
 }
