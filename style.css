@@ -8,3 +8,14 @@ body {
   font-family: sans-serif;
   padding: 20px;
 }
+
+.title {
+  font-size: 46px;
+  text-transform: uppercase;
+}
+
+.btn {
+  background-color: tomato;
+  border: none;
+  padding: 10px;
+}
